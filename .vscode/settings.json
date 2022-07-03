@@ -18,5 +18,8 @@
         "titleBar.inactiveBackground": "#fcd1da99",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#FCD1DA"
+    "peacock.color": "#FCD1DA",
+    "cSpell.words": [
+        "fortawesome"
+    ]
 }
