@@ -108,5 +108,4 @@ export class EmployeeDashboardComponent implements OnInit {
       this.getAllEmployee();
     })
   }
-
 }
